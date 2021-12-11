@@ -1,2 +1,3 @@
-# MontyHallNetCore
-Simulator of Monty Hall Problem
+# Monety Hall Problem Simulator
+
+https://en.wikipedia.org/wiki/Monty_Hall_problem
